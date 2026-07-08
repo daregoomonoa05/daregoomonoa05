@@ -1,16 +1,55 @@
-## Hi there 👋
+# Hi, I`m Omonoa Awoteinm Darego.
 
-<!--
-**daregoomonoa05/daregoomonoa05** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## About me.
+I am a cybersecurity student at NIIT Port Harcourt, passionate about offensive and defensive cybersecurity.
+I enjoy building practical cybersecurity projects that demonstrate real-world skills in:
+- Penetration testing
+- Log analysis
+- Malware analysis
+- Digital forensics
+- OSINT
+- Threat Hunting
+- Social Engineering
+- Vulnerability assessment
+- Governance Risk and Compliance
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+  ## Projects
+  | Project | Description | Repository |
+  |---------|-------------|------------|
+  | OSINT INVESTIGATION | Conducted an OSINT investigation on a target organization | Coming soon |
+  | Log analysis | Analyzed IIS and Windows Event Logs to identify attacks | Coming soon |
+  
+  ## Skills
+  ### Op
+  ereating Systems
+  - Windows
+  - Linux
+ 
+  ### Networking
+  -TCP/IP
+  - DNS
+  - HTTP
+  - FTP
+  - SSH
+ 
+  ### Cybersecurity Tools
+  - Nmap
+  - Wireshark
+  - Burp Suite
+  - Metasploit
+  - Git
+  - GitHub
+ 
+  ## Certifications
+  -ISC2 CC
+  - ConpTia Secirity+ (In Progrees)
+ 
+  ## Education
+  - NIIT Port Harcourt: Cybersecurity
+  - TonyeInfosec: Mentorship and Internship Program
+  - University of Port Harcourt: Geology
+  - OOSI: HSE 1,2 & 3
+ 
+  ## Contact
+  - Phone: +2349031497262
+  - Email: omonoaawoteinmdarego@gmail.com
