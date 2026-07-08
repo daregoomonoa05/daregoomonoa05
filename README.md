@@ -20,8 +20,7 @@ I enjoy building practical cybersecurity projects that demonstrate real-world sk
   | Log analysis | Analyzed IIS and Windows Event Logs to identify attacks | Coming soon |
   
   ## Skills
-  ### Op
-  ereating Systems
+  ### Opereating Systems
   - Windows
   - Linux
  
@@ -41,13 +40,13 @@ I enjoy building practical cybersecurity projects that demonstrate real-world sk
   - GitHub
  
   ## Certifications
-  -ISC2 CC
+  - ISC2 CC
   - ConpTia Secirity+ (In Progrees)
  
   ## Education
   - NIIT Port Harcourt: Cybersecurity
   - TonyeInfosec: Mentorship and Internship Program
-  - University of Port Harcourt: Geology
+  - University of Port Harcourt: B.Sc. in Geology
   - OOSI: HSE 1,2 & 3
  
   ## Contact
