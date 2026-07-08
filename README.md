@@ -25,7 +25,7 @@ I enjoy building practical cybersecurity projects that demonstrate real-world sk
   - Linux
  
   ### Networking
-  -TCP/IP
+  - TCP/IP
   - DNS
   - HTTP
   - FTP
