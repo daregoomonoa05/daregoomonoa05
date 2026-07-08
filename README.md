@@ -1,4 +1,4 @@
-# Hi, I`m Omonoa Awoteinm Darego.
+# Hi, I'm Omonoa Awoteinm Darego.
 
 ## About me.
 I am a cybersecurity student at NIIT Port Harcourt, passionate about offensive and defensive cybersecurity.
